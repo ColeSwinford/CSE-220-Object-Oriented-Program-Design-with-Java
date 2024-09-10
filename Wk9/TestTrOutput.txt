@@ -1,0 +1,9 @@
+[Antique 91 sold by {1, B&B Bros, C} to {2, Metro M, M} in 2004 for $0.00]
+[Painting 117 sold by {3, Rare Goods, C} to {6, CL Fabrics, N} in 2020 for $300000.00]
+[Ceramics 103 sold by {6, CL Fabrics, N} to {5, Mason C, N} in 2020 for $40000.00]
+[Ceramics 112 sold by {3, Rare Goods, C} to {5, Mason C, N} in 2014 for $100000.00]
+[Antique 221 sold by {5, Mason C, N} to {3, Rare Goods, C} in 2020 for $120000.00]
+[Painting 113 sold by {5, Mason C, N} to {4, FA Ctr, M} in 2018 for $0.00]
+
+The database has 6 transactions in total.
+Transactions made in the most recent year have an avg price of $153333.33.
